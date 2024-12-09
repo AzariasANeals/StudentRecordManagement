@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ My\ Main\ Class.\ This\ is\ where\ we\ will\ run\ all\ of\ our\ programs.\r\n\ \r\n\ This\ is\ my\ StudentRecordManagement\ program.\ This\ program\ will\ manage\ student\ records.\ \r\nEach\ record\ will\ contain\ a\ student's\ ID,\ name\ and\ GPA.\ The\ student\ ID\ will\ serve\ as\ the\ \r\nunique\ key.\ The\ application\ allows\ adding\ new\ student\ records,\ deleting\ records,\r\nupdating\ records,\ and\ displaying\ all\ records\ sorted\ by\ student\ ID.\r\n\r\nIn\ order\ to\ run\ it,\ first\ go\ to\ the\ main\ class\ and\ add\ your\ students,\ this\ is\ done\ by\r\ncreating\ a\ new\ Student\ and\ giving\ it\ them\ an\ ID,\ Name,\ and\ GPA.\r\n\r\nYou\ will\ then\ create\ a\ new\ StudentRecordManagement()\ and\ insert\ the\ students\ into\ it.\r\n\r\nOnce\ this\ is\ done,\ you\ can\ manually\ set\ a\ students\ gpa,\ remove\ a\ student,\ update\ a\ student\ id,\r\netc.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

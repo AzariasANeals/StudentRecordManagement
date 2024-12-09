@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=StudentRecordManager
+comment0.text=\r\n\ This\ is\ the\ StudentRecordManager\ class.\ It\ will\ use\ a\ TreeMap\r\n\ to\ store\ the\ student\ records.\ The\ key\ will\ be\ the\ student\ ID.\r\n\ \r\n\ You\ can\ insert\ students,\ update\ students,\ remove\ students,\ and\ display\ student\ records.\r\n\ \r\n\ You\ are\ also\ able\ to\ display\ and\ filter\ student\ records\ by\ GPA.\r\n
+comment1.params=
+comment1.target=StudentRecordManager()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=student
+comment2.target=void\ insertStudent(Student)
+comment3.params=student
+comment3.target=void\ updateStudent(Student)
+comment4.params=student
+comment4.target=void\ removeStudent(Student)
+comment5.params=student
+comment5.target=void\ updateInsertStudent(Student)
+comment6.params=
+comment6.target=void\ displayStudentRecords()
+comment7.params=gpaFilter
+comment7.target=void\ displayStudentRecords(double)
+comment8.params=studentID
+comment8.target=Student\ retrieveStudentRecord(int)
+comment9.params=
+comment9.target=int\ getNumberOfRecords()
+numComments=11
